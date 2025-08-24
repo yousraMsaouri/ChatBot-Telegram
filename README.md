@@ -95,6 +95,7 @@ ollama pull phi3
 
 <img width="1138" height="490" alt="image" src="https://github.com/user-attachments/assets/da0065d9-e0c3-4887-8785-8b233e300260" />
 
+
 ## 🎓 Pourquoi ce projet ?
 
 ✅ Confidentialité : Aucune donnée n’est envoyée à une API externe
