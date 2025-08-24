@@ -87,8 +87,13 @@ ollama pull phi3
 ```
 
 ## 📸 Capture d'écran (exemple)
+<img width="1027" height="192" alt="image" src="https://github.com/user-attachments/assets/819a8613-571c-41d2-9eb7-c98f36005335" />
 
+<img width="1335" height="797" alt="image" src="https://github.com/user-attachments/assets/47e29a6a-abb3-4cac-9b23-3202325c141a" />
 
+<img width="1446" height="862" alt="image" src="https://github.com/user-attachments/assets/73cc7ca9-357a-4c56-870b-3f7e436ea37f" />
+
+<img width="1138" height="490" alt="image" src="https://github.com/user-attachments/assets/da0065d9-e0c3-4887-8785-8b233e300260" />
 
 ## 🎓 Pourquoi ce projet ?
 
